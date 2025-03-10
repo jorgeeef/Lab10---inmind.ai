@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net8.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+        <PackageId>maths.georges11</PackageId>
+        <Version>1.0.1</Version>
+        <Authors>Georges Fardissi</Authors>
+        <Company>Inmind</Company>
+        <Description>A simple library to perform math operations.</Description>
+        <PackageTags>math, sum</PackageTags>
+        <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    </PropertyGroup>
+
+</Project>

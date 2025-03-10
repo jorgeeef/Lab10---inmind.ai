@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>testing.academy</id>
+    <version>1.0.1</version>
+    <authors>Georges Fardissi</authors>
+    <description>A simple library to perform math operations.</description>
+    <tags>math, sum</tags>
+    <repository type="git" />
+    <dependencies>
+      <group targetFramework="net8.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\user\RiderProjects\Session10\Session10\bin\Debug\net8.0\Session10.dll" target="lib\net8.0\Session10.dll" />
+  </files>
+</package>

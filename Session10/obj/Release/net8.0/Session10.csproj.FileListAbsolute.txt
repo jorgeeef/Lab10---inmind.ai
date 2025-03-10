@@ -1,0 +1,11 @@
+C:\Users\user\RiderProjects\Session10\Session10\bin\Release\net8.0\Session10.deps.json
+C:\Users\user\RiderProjects\Session10\Session10\bin\Release\net8.0\Session10.dll
+C:\Users\user\RiderProjects\Session10\Session10\bin\Release\net8.0\Session10.pdb
+C:\Users\user\RiderProjects\Session10\Session10\obj\Release\net8.0\Session10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\RiderProjects\Session10\Session10\obj\Release\net8.0\Session10.AssemblyInfoInputs.cache
+C:\Users\user\RiderProjects\Session10\Session10\obj\Release\net8.0\Session10.AssemblyInfo.cs
+C:\Users\user\RiderProjects\Session10\Session10\obj\Release\net8.0\Session10.csproj.CoreCompileInputs.cache
+C:\Users\user\RiderProjects\Session10\Session10\obj\Release\net8.0\Session10.dll
+C:\Users\user\RiderProjects\Session10\Session10\obj\Release\net8.0\refint\Session10.dll
+C:\Users\user\RiderProjects\Session10\Session10\obj\Release\net8.0\Session10.pdb
+C:\Users\user\RiderProjects\Session10\Session10\obj\Release\net8.0\ref\Session10.dll
